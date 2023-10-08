@@ -26,7 +26,7 @@ This is a simple implementation of arcticle summarization using Google's PaLM AP
 
 ## Access the app here:
 
-- TODO
+- https://text-summarizer-using-palm-api.onrender.com/
 
 ## License
 
