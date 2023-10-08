@@ -13,7 +13,6 @@ This is a simple implementation of arcticle summarization using Google's PaLM AP
 - Replace YOUR_API_KEY with this API Key.
 - Open a terminal in your project folder.
 - Run `pip install -r requirements.txt`.
-- Run `pip install -r additional_requirements.txt`.
 
 ## Run the app:
 
