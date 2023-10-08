@@ -22,6 +22,7 @@ This is a simple implementation of arcticle summarization using Google's PaLM AP
 - The article summary will be observed in a summary box.
 - For any special use cases pass the use case prompt along with the article text or URL.
 - For example, if you wish to summarize a news article with bulletpoints, pass the prompt "Summarize this news article with bulletpoints:" along with the article text or URL.
+- If you are facing any issues try upgrading your python version or raise an issue in this repository.
 
 ## Access the app here:
 
